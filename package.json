@@ -1,0 +1,15 @@
+{
+  "name": "platform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "node serve.js",
+    "build": "node build.js"
+  },
+  "author": "HandsomeWalker",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
